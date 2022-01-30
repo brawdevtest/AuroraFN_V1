@@ -9,7 +9,7 @@
     background-clip: text;
     -webkit-background-clip: text; 
     -webkit-text-fill-color: transparent; 
-    background-image: url("../files/gradient.png");
+    background-image: url("https://brawdevtest.github.io/AuroraFN_V1/files/gradient.png");
     background-size: cover;
     background-position: center;
 }
@@ -21,7 +21,7 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-image: url("../files/gradient.png");
+    background-image: url("https://brawdevtest.github.io/AuroraFN_V1/files/gradient.png");
     background-size: cover;
     background-position: center;
     text-align: center;
