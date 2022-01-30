@@ -12,11 +12,11 @@
 @font-face {
     font-family: "SF Text Regular";
     font-weight: 400;
-    src: url("https://sf.abarba.me/SF-UI-Text-Regular.otf");
+    src: url("https://github.com/brawdevtest/aurorafiles/raw/main/ttf/SFUIText-Regular.ttf");
 }
 
 @font-face {
     font-family: "SF Text Bold";
     font-weight: 700;
-    src: url("https://sf.abarba.me/SF-UI-Text-Bold.otf");
+    src: url("https://github.com/brawdevtest/aurorafiles/raw/main/ttf/SFUIText-Bold.ttf");
 }
